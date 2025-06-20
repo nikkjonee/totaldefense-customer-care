@@ -7,12 +7,12 @@ How to Contact Total Defense Customer Care?
    :maxdepth: 2
    :caption: Contents:
 
-  .. image:: https://trackigpsnotworking.readthedocs.io/en/latest/_images/support1.png
+.. image:: https://trackigpsnotworking.readthedocs.io/en/latest/_images/support1.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://getchatsupport.live/
-  _______
+_____
 
 In the digital age, where cybersecurity threats evolve daily, having reliable protection software is no longer optional—it's a necessity. Equally important is the customer support that backs the software. This is where Total Defense Customer Care truly stands out. More than just a technical support team, Total Defense Customer Care is a comprehensive support system designed to assist users with any issues they may face with their security software.
 
